@@ -1,4 +1,4 @@
-# Get_Next_line-bonus
+# Get_Next_line
 Get Next Line project for 42 school in Rome, completed with bonus
 
 the function works pretty well, including the bonus part. However

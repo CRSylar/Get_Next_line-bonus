@@ -1,8 +1,9 @@
 # Get_Next_line
 Get Next Line project for 42 school in Rome, completed with bonus
 
-the function works pretty well, including the bonus part. However
-i've got "only" 107/100 by Moulinette 
+![Cromalde's 42Project Score](https://badge42.herokuapp.com/api/project/cromalde/get_next_line)
+
+the function works pretty well, including the bonus part.
 for a mistake on the bonus header file.
 
 here is the final correct version
